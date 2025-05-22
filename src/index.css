@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+label{
+
+  color: #252525;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+input{
+  height: 50px;
+
+  border-radius: 7px;
+opacity: 0.4;
+background: #FFF;
+box-shadow: 0px 20px 13px 0px rgba(41, 72, 152, 0.03), 0px 8.148px 6.519px 0px rgba(41, 72, 152, 0.02);
+}
+
+.PhoneInputCountrySelectArrow {
+height: 8px !important;
+    width: 8px !important;
+    margin-left : 8px !important;
+    margin-right : 4px !important;
+    opacity: 1 !important;
+    border-color: #000 !important;
+}
